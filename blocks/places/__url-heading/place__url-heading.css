@@ -6,3 +6,12 @@
     font-family: 'Inter';
     color: #ffffff;
 }
+
+@media screen and (max-width:767px){
+    .place__url-heading {
+        display: flex;
+        flex-direction: column;
+        max-width: 767px;
+        margin: 0 16px 12px;
+    }
+}
