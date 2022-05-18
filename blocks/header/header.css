@@ -4,29 +4,24 @@
     min-height: 52px;
     justify-content: space-between;
     margin: 28px auto 56px;
-    align-content: bottom;
+  }
+
+@media screen and (max-width:1279px) {
+  .header {
+    margin: 28px 48px 48px;
+  }
 }
-
-
 
 @media screen and (max-width:1023px) {
     .header {
       max-width: 928px;
-      margin: 28px auto 48px;
+      margin: 28px 24px 48px;
     }
 }
 
 @media screen and (max-width:767px) {
     .header {
       max-width: 720px;
-      margin: 28px auto 48px;
-    }
-}
-
-@media screen and (max-width:320px){
-    .header {
-      margin: 16px auto 48px;
-      max-width: 288px;
-      min-height: 42px;
+      margin: 28px 16px 48px;
     }
 }
