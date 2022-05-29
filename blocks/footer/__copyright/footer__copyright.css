@@ -9,6 +9,10 @@
     display: flex;
     justify-content: right;
 }
+ 
+
+
+ 
 
 @media screen and (max-width:767px){
     .footer__copyright {
@@ -16,5 +20,5 @@
      line-height: 1;
      justify-content: left;
      width: 100%;
-    }
-}
+     }
+} 

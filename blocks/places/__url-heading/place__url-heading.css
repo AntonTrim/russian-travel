@@ -4,8 +4,14 @@
     letter-spacing: 2px;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
-    color: #ffffff;
-    margin: 0 0 12px 0;
+    color: #aaa;
+    margin: 0 0 6px 0;
+}
+
+@media screen and (max-width:1279) {
+    .place__url-heading {
+        margin: 0 0 6px;
+    }
 }
 
 @media screen and (max-width:767px){
