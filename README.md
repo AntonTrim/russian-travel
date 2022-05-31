@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-https://github.com/AntonTrim/russian-travel
+[https://github.com/AntonTrim/russian-travel](https://antontrim.github.io/russian-travel/)
 
 ### Обзор
 * Интро
