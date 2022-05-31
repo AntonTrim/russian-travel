@@ -6,6 +6,7 @@
     font-weight: 400;
     color: #aaa;
     margin: 0 0 6px 0;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width:1279) {

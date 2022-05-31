@@ -2,8 +2,7 @@
     display: grid;
     max-width: 984px;
     grid-template-columns: min-content auto;
-    margin: auto;
-    margin-bottom: 80px;
+    margin: auto auto 80px;
     gap: 48px 40px;
 }
 
